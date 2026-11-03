@@ -5,6 +5,7 @@ import 'bootstrap';
 // If you have custom global styles, import them as well:
 //--------------------------------------------------------------
 import '/src/styles/style.css';
+import "bootstrap-icons/font/bootstrap-icons.css"; // ← NEW
 
 //--------------------------------------------------------------
 // Custom global JS code (shared with all pages)can go here.
